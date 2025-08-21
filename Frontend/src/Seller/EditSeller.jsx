@@ -12,7 +12,7 @@ const EditSeller = () => {
     lastName: "",
     email: "",
   });
-
+// comment
   const [error, setError] = useState("");
 
   useEffect(() => {
